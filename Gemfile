@@ -44,5 +44,7 @@ group :development, :test do
   #ERD
   gem "rails-erd"	
   gem 'railroady'
+  #paginate
+  gem 'will_paginate'
 end
 
